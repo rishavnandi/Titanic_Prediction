@@ -8,6 +8,8 @@
 
 > In this contest, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
+![output_1_1](https://user-images.githubusercontent.com/101431112/185972915-ebb0a95b-83c9-4583-ad4f-4e505c215ccc.png)
+
 ## Dependencies
 
 <ul>
